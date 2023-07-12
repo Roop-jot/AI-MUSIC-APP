@@ -1,0 +1,20 @@
+body
+{
+    text-align: center;
+    background: url('th.jpg');
+}
+h1
+{
+    color: whitesmoke;
+    text-align: center;
+    background-color: orange;
+}
+.abox
+{
+    background-color: orange;
+}
+#onlyoneclass
+{
+    background-size: cover;
+    background-color: aqua;
+}
